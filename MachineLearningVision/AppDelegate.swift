@@ -1,3 +1,5 @@
 //
 //  AppDelegate.swift
-//  MachineLearni
+//  MachineLearningVision
+//
+//  Created by Kelly Galakatos on 1
