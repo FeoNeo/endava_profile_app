@@ -24,4 +24,5 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Use this method to pause ongoing tasks, disable timers, and invalidate graphics rendering callbacks. Games should use this method to pause the game.
     }
 
-    func applicationDidEnter
+    func applicationDidEnterBackground(_ application: UIApplication) {
+   
