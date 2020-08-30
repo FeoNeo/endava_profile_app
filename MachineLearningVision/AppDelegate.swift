@@ -25,4 +25,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func applicationDidEnterBackground(_ application: UIApplication) {
-        // Use this method to release shared resources, save user d
+        // Use this method to release shared resources, save user data, invalidate timers, and store enough application s
