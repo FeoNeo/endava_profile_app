@@ -38,4 +38,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func applicationWillTerminate(_ application: UIApplication) {
-        // Called w
+        // Called when the application is about to term
