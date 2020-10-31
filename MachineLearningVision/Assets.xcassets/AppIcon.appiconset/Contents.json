@@ -56,4 +56,7 @@
       "scale" : "1x"
     },
     {
-      "idi
+      "idiom" : "ipad",
+      "size" : "29x29",
+      "scale" : "2x"
+   
