@@ -4,4 +4,5 @@
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
-        <depl
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.appl
