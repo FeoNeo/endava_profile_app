@@ -13,4 +13,5 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="MachineLearningVision" customModuleProvider="target" sc
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="MachineLearningVision" customModuleProvider="target" sceneMemberID="viewController">
+                    <view ke
