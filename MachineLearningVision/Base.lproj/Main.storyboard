@@ -21,4 +21,4 @@
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="TFs-7t-hhH">
                                 <rect key="frame" x="0.0" y="64" width="375" height="216"/>
                             </imageView>
-                            <navigationBar contentMode="s
+                            <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id=
