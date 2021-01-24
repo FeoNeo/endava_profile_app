@@ -22,4 +22,5 @@
                                 <rect key="frame" x="0.0" y="64" width="375" height="216"/>
                             </imageView>
                             <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="mQI-s5-jta">
-                                <rect key="fra
+                                <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+          
