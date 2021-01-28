@@ -25,4 +25,5 @@
                                 <rect key="frame" x="0.0" y="20" width="375" height="44"/>
                                 <items>
                                     <navigationItem id="uWV-hB-e0y">
-              
+                                        <leftBarButtonItems>
+            
