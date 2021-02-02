@@ -27,4 +27,5 @@
                                     <navigationItem id="uWV-hB-e0y">
                                         <leftBarButtonItems>
                                             <barButtonItem systemItem="camera" id="4GV-4h-1zz">
-                 
+                                                <connections>
+                
