@@ -29,4 +29,5 @@
                                             <barButtonItem systemItem="camera" id="4GV-4h-1zz">
                                                 <connections>
                                                     <action selector="takePicture:" destination="BYZ-38-t0r" id="ZiK-00-Ycb"/>
-                                   
+                                                </connections>
+                     
