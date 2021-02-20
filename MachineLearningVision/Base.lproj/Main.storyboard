@@ -33,4 +33,5 @@
                                             </barButtonItem>
                                             <barButtonItem systemItem="organize" id="h2f-ez-79u">
                                                 <connections>
-                                                    <action selector="importPicture:" destination="BYZ-38-t0r" id="qpb-AS
+                                                    <action selector="importPicture:" destination="BYZ-38-t0r" id="qpb-AS-yhn"/>
+                                          
