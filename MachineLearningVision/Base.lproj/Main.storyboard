@@ -37,4 +37,6 @@
                                                 </connections>
                                             </barButtonItem>
                                         </leftBarButtonItems>
-                                    </navigationIte
+                                    </navigationItem>
+                                </items>
+               
