@@ -36,4 +36,5 @@
                                                     <action selector="importPicture:" destination="BYZ-38-t0r" id="qpb-AS-yhn"/>
                                                 </connections>
                                             </barButtonItem>
-                                        
+                                        </leftBarButtonItems>
+                                    </navigationIte
