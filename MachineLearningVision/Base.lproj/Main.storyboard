@@ -40,4 +40,4 @@
                                     </navigationItem>
                                 </items>
                             </navigationBar>
-                            <text
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES"
