@@ -39,4 +39,5 @@
                                         </leftBarButtonItems>
                                     </navigationItem>
                                 </items>
-               
+                            </navigationBar>
+                            <text
