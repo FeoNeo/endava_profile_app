@@ -43,4 +43,5 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="2Qw-DE-skY">
                                 <rect key="frame" x="16" y="303" width="343" height="298"/>
                                 <color key="backgroundColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="
