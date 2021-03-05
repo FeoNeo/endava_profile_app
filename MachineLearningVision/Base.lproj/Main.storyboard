@@ -47,4 +47,4 @@
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
-     
+                        <color key="backgroundColor" red="1" green="
