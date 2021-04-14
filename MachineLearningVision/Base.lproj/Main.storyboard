@@ -64,4 +64,5 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <toolbarItems/>
-                    <simulatedToolbarMetrics key="simulatedBot
+                    <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
+                    <connections>
