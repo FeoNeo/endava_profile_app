@@ -66,4 +66,5 @@
                     <toolbarItems/>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
-                        <outlet property="imageView" d
+                        <outlet property="imageView" destination="TFs-7t-hhH" id="WkE-FB-WKj"/>
+                
