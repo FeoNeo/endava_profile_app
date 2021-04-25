@@ -67,4 +67,6 @@
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
                         <outlet property="imageView" destination="TFs-7t-hhH" id="WkE-FB-WKj"/>
-                        <outlet property="textBox" destination="2Qw-DE-skY" id="dP8-x0-3os"/
+                        <outlet property="textBox" destination="2Qw-DE-skY" id="dP8-x0-3os"/>
+                    </connections>
+        
