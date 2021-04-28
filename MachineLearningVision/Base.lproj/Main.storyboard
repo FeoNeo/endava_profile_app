@@ -70,4 +70,5 @@
                         <outlet property="textBox" destination="2Qw-DE-skY" id="dP8-x0-3os"/>
                     </connections>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+      
