@@ -13,4 +13,6 @@
 	<key>CFBundleName</key>
 	<string>$(PRODUCT_NAME)</string>
 	<key>CFBundlePackageType</key>
-	<string>APPL</st
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<
