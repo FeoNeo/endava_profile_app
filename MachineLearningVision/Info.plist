@@ -19,4 +19,6 @@
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
-	<tru
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<
