@@ -24,4 +24,5 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
-	<key>NSPhoto
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>May this app access your pho
