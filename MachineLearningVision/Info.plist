@@ -27,4 +27,5 @@
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>May this app access your photo library?</string>
 	<key>NSCameraUsageDescription</key>
-	<string>May this app access your camera?
+	<string>May this app access your camera?</string>
+	<key>UIRequiredDeviceCapabilities<
