@@ -25,4 +25,5 @@
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>May this app access your pho
+	<string>May this app access your photo library?</string>
+	<key>NSCameraUsageDescription<
