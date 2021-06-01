@@ -28,4 +28,7 @@
 	<string>May this app access your photo library?</string>
 	<key>NSCameraUsageDescription</key>
 	<string>May this app access your camera?</string>
-	<key>UIRequiredDeviceCapabilities<
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array
