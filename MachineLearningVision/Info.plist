@@ -40,4 +40,5 @@
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
-		<string>UIInterfaceOrientatio
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortra
