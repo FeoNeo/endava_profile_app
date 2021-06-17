@@ -64,3 +64,48 @@ class ViewController: UIViewController, UINavigationControllerDelegate, UIImageP
     }
     
     
+    func classifyImage(image: UIImage) {
+        guard let ciImage = CIImage(image: image) else {
+            print("could not continue - no CiImage constructed")
+            return
+        }
+        textBox.text = "classifying..."
+        guard let trainedModel = try? VNCoreMLModel(for: VGG16().model) else {
+            print("can't load ML model")
+            return
+        }
+        let classificationRequest = VNCoreMLRequest(model: trainedModel) { [weak self] classificationRequest, error in
+            guard let results = classificationRequest.results as? [VNClassificationObservation]
+                else {
+                    print("unexpected result type from VNCoreMLRequest")
+                    return
+            }
+         
+            
+            let classifications = results.filter({ $0.confidence > 0.01 })
+                .map({ "\($0.identifier)  -  \(String(format:"%.4f%%", Float($0.confidence)*100))" })
+            
+    
+            DispatchQueue.main.async { [weak self] in
+                self?.textBox.text = "\(classifications.joined(separator: "\n"))"
+            }
+        }
+       
+        let imageRequestHandler = VNImageRequestHandler(ciImage: ciImage)
+        DispatchQueue.global(qos: .userInteractive).async {
+            do {
+                try imageRequestHandler.perform([classificationRequest])
+            } catch {
+                print(error)
+            }
+        }
+    }
+
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view, typically from a nib.
+    }
+
+
+}
