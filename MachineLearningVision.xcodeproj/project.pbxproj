@@ -13,3 +13,4 @@
 		FA7CED0121B226170094AFAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA7CED0021B226170094AFAF /* Assets.xcassets */; };
 		FA7CED0421B226170094AFAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA7CED0221B226170094AFAF /* LaunchScreen.storyboard */; };
 		FA7CED0F21B226170094AFAF /* MachineLearningVisionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7CED0E21B226170094AFAF /* MachineLearningVisionTests.swift */; };
+		FA7CED1A21B226170094AFAF /* MachineLearn
