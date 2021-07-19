@@ -14,4 +14,5 @@
 		FA7CED0421B226170094AFAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA7CED0221B226170094AFAF /* LaunchScreen.storyboard */; };
 		FA7CED0F21B226170094AFAF /* MachineLearningVisionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7CED0E21B226170094AFAF /* MachineLearningVisionTests.swift */; };
 		FA7CED1A21B226170094AFAF /* MachineLearningVisionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7CED1921B226170094AFAF /* MachineLearningVisionUITests.swift */; };
-		FA7CED2821B6403C0094AFAF /* VGG16.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = FA7CED2721B6403C0094AFAF /* VGG16.mlmodel */; 
+		FA7CED2821B6403C0094AFAF /* VGG16.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = FA7CED2721B6403C0094AFAF /* VGG16.mlmodel */; };
+		FA7CED2A21B656B90094AFAF /* ImageProcessor.swift in
