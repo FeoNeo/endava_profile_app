@@ -18,4 +18,5 @@
 		FA7CED2A21B656B90094AFAF /* ImageProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7CED2921B656B90094AFAF /* ImageProcessor.swift */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContai
+/* Begin PBXContainerItemProxy section */
+		FA7CED0B21B226170094AFAF /* P
