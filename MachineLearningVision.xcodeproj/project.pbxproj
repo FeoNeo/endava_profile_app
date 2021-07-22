@@ -19,4 +19,5 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		FA7CED0B21B226170094AFAF /* P
+		FA7CED0B21B226170094AFAF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProx
