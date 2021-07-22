@@ -20,4 +20,5 @@
 
 /* Begin PBXContainerItemProxy section */
 		FA7CED0B21B226170094AFAF /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProx
+			isa = PBXContainerItemProxy;
+			containerPortal = FA7CECEE21B226130094AFAF /* 
