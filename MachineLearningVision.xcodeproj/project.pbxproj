@@ -24,4 +24,6 @@
 			containerPortal = FA7CECEE21B226130094AFAF /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = FA7CECF521B226130094AFAF;
-			remoteInfo 
+			remoteInfo = MachineLearningVision;
+		};
+		FA7CED1621B226170094
