@@ -21,4 +21,6 @@
 /* Begin PBXContainerItemProxy section */
 		FA7CED0B21B226170094AFAF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = FA7CECEE21B226130094AFAF /* 
+			containerPortal = FA7CECEE21B226130094AFAF /* Project object */;
+			proxyType = 1;
+			remoteG
