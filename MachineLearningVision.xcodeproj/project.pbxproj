@@ -26,4 +26,5 @@
 			remoteGlobalIDString = FA7CECF521B226130094AFAF;
 			remoteInfo = MachineLearningVision;
 		};
-		FA7CED1621B226170094
+		FA7CED1621B226170094AFAF /* PBXContainerItemProxy */ = {
+			isa = PBXCont
