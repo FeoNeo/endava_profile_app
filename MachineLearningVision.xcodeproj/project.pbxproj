@@ -27,4 +27,5 @@
 			remoteInfo = MachineLearningVision;
 		};
 		FA7CED1621B226170094AFAF /* PBXContainerItemProxy */ = {
-			isa = PBXCont
+			isa = PBXContainerItemProxy;
+			containerPortal = FA7CECEE21B226130094AFAF /
