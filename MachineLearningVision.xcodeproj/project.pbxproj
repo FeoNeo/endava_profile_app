@@ -30,4 +30,5 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = FA7CECEE21B226130094AFAF /* Project object */;
 			proxyType = 1;
-			remo
+			remoteGlobalIDString = FA7CECF521B226130094AFAF;
+			r
