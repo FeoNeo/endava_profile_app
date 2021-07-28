@@ -28,4 +28,6 @@
 		};
 		FA7CED1621B226170094AFAF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = FA7CECEE21B226130094AFAF /
+			containerPortal = FA7CECEE21B226130094AFAF /* Project object */;
+			proxyType = 1;
+			remo
