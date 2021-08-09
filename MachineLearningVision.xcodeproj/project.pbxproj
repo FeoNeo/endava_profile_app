@@ -37,4 +37,4 @@
 
 /* Begin PBXFileReference section */
 		FA7CECF621B226130094AFAF /* MachineLearningVision.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MachineLearningVision.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		FA7CECF921B226130094AFAF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnow
+		FA7CECF921B226130094AFAF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDele
