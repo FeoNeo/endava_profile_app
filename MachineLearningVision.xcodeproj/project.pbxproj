@@ -43,4 +43,4 @@
 		FA7CED0021B226170094AFAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA7CED0321B226170094AFAF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA7CED0521B226170094AFAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FA7CED0A21B226170094AFAF /* MachineLearningVisionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; 
+		FA7CED0A21B226170094AFAF /* MachineLearningVisionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MachineLearningVisionTests.xctest;
