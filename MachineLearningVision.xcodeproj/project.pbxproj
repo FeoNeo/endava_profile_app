@@ -46,4 +46,4 @@
 		FA7CED0A21B226170094AFAF /* MachineLearningVisionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MachineLearningVisionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA7CED0E21B226170094AFAF /* MachineLearningVisionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MachineLearningVisionTests.swift; sourceTree = "<group>"; };
 		FA7CED1021B226170094AFAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FA7CED1521B226170094AFAF /* MachineLearningVisionUITests.xc
+		FA7CED1521B226170094AFAF /* MachineLearningVisionUITests.xctest */ = {isa = PBXFileReference; explicitFileT
