@@ -50,4 +50,4 @@
 		FA7CED1921B226170094AFAF /* MachineLearningVisionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MachineLearningVisionUITests.swift; sourceTree = "<group>"; };
 		FA7CED1B21B226170094AFAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA7CED2721B6403C0094AFAF /* VGG16.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = VGG16.mlmodel; path = ../../../../Downloads/VGG16.mlmodel; sourceTree = "<group>"; };
-		FA7CED2921B656B90094AFAF /* ImageProcessor.swift
+		FA7CED2921B656B90094AFAF /* ImageProcessor.swift */ = {isa = PBXFileReference; lastKnown
