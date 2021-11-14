@@ -53,4 +53,5 @@
 		FA7CED2921B656B90094AFAF /* ImageProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProcessor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
-/* Begin PBXFrameworksBuildPhase 
+/* Begin PBXFrameworksBuildPhase section */
+		FA7CECF321B226130094AFAF /* Frameworks */ 
