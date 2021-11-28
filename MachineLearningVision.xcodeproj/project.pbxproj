@@ -63,4 +63,7 @@
 		};
 		FA7CED0721B226170094AFAF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 21474836
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostproce
