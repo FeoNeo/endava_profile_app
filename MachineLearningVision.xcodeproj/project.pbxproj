@@ -68,4 +68,5 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FA7CED1221B226170094
+		FA7CED1221B226170094AFAF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPha
