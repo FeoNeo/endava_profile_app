@@ -82,4 +82,4 @@
 			isa = PBXGroup;
 			children = (
 				FA7CECF821B226130094AFAF /* MachineLearningVision */,
-				FA7CED0D21B226170
+				FA7CED0D21B226170094AFAF /* MachineLearningVisionTests
