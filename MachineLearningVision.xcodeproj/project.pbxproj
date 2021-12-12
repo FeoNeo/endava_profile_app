@@ -79,4 +79,6 @@
 
 /* Begin PBXGroup section */
 		FA7CECED21B226120094AFAF = {
-			isa
+			isa = PBXGroup;
+			children = (
+				FA7CECF821B226130094
