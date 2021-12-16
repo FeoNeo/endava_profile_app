@@ -84,4 +84,7 @@
 				FA7CECF821B226130094AFAF /* MachineLearningVision */,
 				FA7CED0D21B226170094AFAF /* MachineLearningVisionTests */,
 				FA7CED1821B226170094AFAF /* MachineLearningVisionUITests */,
-				FA7CECF721B226130094AFAF /* P
+				FA7CECF721B226130094AFAF /* Products */,
+			);
+			sourceTree = "<group>";
+	
