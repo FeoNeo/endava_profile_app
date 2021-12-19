@@ -91,4 +91,5 @@
 		FA7CECF721B226130094AFAF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FA7CECF621B226130094AFAF /* 
+				FA7CECF621B226130094AFAF /* MachineLearningVision.app */,
+				FA7CED0A21B226170094AFAF /* Machin
