@@ -89,4 +89,6 @@
 			sourceTree = "<group>";
 		};
 		FA7CECF721B226130094AFAF /* Products */ = {
-			isa = P
+			isa = PBXGroup;
+			children = (
+				FA7CECF621B226130094AFAF /* 
