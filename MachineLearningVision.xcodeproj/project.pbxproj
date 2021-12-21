@@ -93,4 +93,4 @@
 			children = (
 				FA7CECF621B226130094AFAF /* MachineLearningVision.app */,
 				FA7CED0A21B226170094AFAF /* MachineLearningVisionTests.xctest */,
-				FA7CED1521B226170
+				FA7CED1521B226170094AFAF /* MachineLearningVisionUITests.xctest */,
