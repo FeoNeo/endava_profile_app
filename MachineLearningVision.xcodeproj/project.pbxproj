@@ -103,3 +103,5 @@
 			children = (
 				FA7CECF921B226130094AFAF /* AppDelegate.swift */,
 				FA7CECFB21B226130094AFAF /* ViewController.swift */,
+				FA7CED2921B656B90094AFAF /* ImageProcessor.swift */,
+				F
