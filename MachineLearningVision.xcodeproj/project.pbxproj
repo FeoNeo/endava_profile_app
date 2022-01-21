@@ -110,4 +110,7 @@
 				FA7CED0221B226170094AFAF /* LaunchScreen.storyboard */,
 				FA7CED0521B226170094AFAF /* Info.plist */,
 			);
-			path = MachineLearn
+			path = MachineLearningVision;
+			sourceTree = "<group>";
+		};
+		FA7CED0D21B2
