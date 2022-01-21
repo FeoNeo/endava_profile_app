@@ -108,4 +108,6 @@
 				FA7CED2721B6403C0094AFAF /* VGG16.mlmodel */,
 				FA7CED0021B226170094AFAF /* Assets.xcassets */,
 				FA7CED0221B226170094AFAF /* LaunchScreen.storyboard */,
-				FA7CED0521B226170094AF
+				FA7CED0521B226170094AFAF /* Info.plist */,
+			);
+			path = MachineLearn
