@@ -113,4 +113,4 @@
 			path = MachineLearningVision;
 			sourceTree = "<group>";
 		};
-		FA7CED0D21B2
+		FA7CED0D21B226170094AFAF /* MachineLearningVisionTests */ = {
