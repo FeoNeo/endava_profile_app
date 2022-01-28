@@ -116,4 +116,6 @@
 		FA7CED0D21B226170094AFAF /* MachineLearningVisionTests */ = {
 			isa = PBXGroup;
 			children = (
-				FA7CED0E21B226170094AFAF /* MachineLearningVisionTests.swift *
+				FA7CED0E21B226170094AFAF /* MachineLearningVisionTests.swift */,
+				FA7CED1021B226170094AFAF /* Info.plist */,
+			);
