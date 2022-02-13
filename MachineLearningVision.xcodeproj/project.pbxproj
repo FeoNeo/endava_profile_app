@@ -123,4 +123,6 @@
 			sourceTree = "<group>";
 		};
 		FA7CED1821B226170094AFAF /* MachineLearningVisionUITests */ = {
-			isa = PB
+			isa = PBXGroup;
+			children = (
+				FA7CED1921B2
