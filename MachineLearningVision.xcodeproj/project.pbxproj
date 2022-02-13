@@ -122,4 +122,5 @@
 			path = MachineLearningVisionTests;
 			sourceTree = "<group>";
 		};
-		FA7CED1821B226170094AFAF 
+		FA7CED1821B226170094AFAF /* MachineLearningVisionUITests */ = {
+			isa = PB
