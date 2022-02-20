@@ -125,4 +125,4 @@
 		FA7CED1821B226170094AFAF /* MachineLearningVisionUITests */ = {
 			isa = PBXGroup;
 			children = (
-				FA7CED1921B2
+				FA7CED1921B226170094AFAF /* MachineLearningVisionUITests.swift 
