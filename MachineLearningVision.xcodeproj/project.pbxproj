@@ -129,4 +129,6 @@
 				FA7CED1B21B226170094AFAF /* Info.plist */,
 			);
 			path = MachineLearningVisionUITests;
-			sour
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section *
