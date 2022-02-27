@@ -126,4 +126,7 @@
 			isa = PBXGroup;
 			children = (
 				FA7CED1921B226170094AFAF /* MachineLearningVisionUITests.swift */,
-				FA7CED1B21B226170094AFAF /* Info.plist *
+				FA7CED1B21B226170094AFAF /* Info.plist */,
+			);
+			path = MachineLearningVisionUITests;
+			sour
