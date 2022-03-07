@@ -135,4 +135,5 @@
 
 /* Begin PBXNativeTarget section */
 		FA7CECF521B226130094AFAF /* MachineLearningVision */ = {
-			i
+			isa = PBXNativeTarget;
+			buildConfiguratio
