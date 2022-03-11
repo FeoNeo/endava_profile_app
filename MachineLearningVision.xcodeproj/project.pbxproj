@@ -137,4 +137,6 @@
 		FA7CECF521B226130094AFAF /* MachineLearningVision */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = FA7CED1E21B226170094AFAF /* Build configuration list for PBXNativeTarget "MachineLearningVision" */;
-			buildPhases 
+			buildPhases = (
+				FA7CECF221B226130094AFAF /* Sources */,
+				F
