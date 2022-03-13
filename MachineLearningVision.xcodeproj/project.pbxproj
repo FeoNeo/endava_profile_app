@@ -147,4 +147,5 @@
 			dependencies = (
 			);
 			name = MachineLearningVision;
-			productName = MachineLearningVision
+			productName = MachineLearningVision;
+			productReference = FA7CECF621B226130094AFAF /* Machin
