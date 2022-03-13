@@ -146,4 +146,5 @@
 			);
 			dependencies = (
 			);
-	
+			name = MachineLearningVision;
+			productName = MachineLearningVision
