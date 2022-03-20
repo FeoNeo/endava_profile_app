@@ -151,4 +151,5 @@
 			productReference = FA7CECF621B226130094AFAF /* MachineLearningVision.app */;
 			productType = "com.apple.product-type.application";
 		};
-		FA7CED0921B226170094AFAF /*
+		FA7CED0921B226170094AFAF /* MachineLearningVisionTests */ = {
+			isa 
