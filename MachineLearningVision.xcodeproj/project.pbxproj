@@ -152,4 +152,5 @@
 			productType = "com.apple.product-type.application";
 		};
 		FA7CED0921B226170094AFAF /* MachineLearningVisionTests */ = {
-			isa 
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA7CED2121B22617009
