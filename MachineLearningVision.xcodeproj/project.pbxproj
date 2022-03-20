@@ -149,4 +149,6 @@
 			name = MachineLearningVision;
 			productName = MachineLearningVision;
 			productReference = FA7CECF621B226130094AFAF /* MachineLearningVision.app */;
-			productType = "com.apple.prod
+			productType = "com.apple.product-type.application";
+		};
+		FA7CED0921B226170094AFAF /*
