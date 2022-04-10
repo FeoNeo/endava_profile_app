@@ -157,4 +157,6 @@
 			buildPhases = (
 				FA7CED0621B226170094AFAF /* Sources */,
 				FA7CED0721B226170094AFAF /* Frameworks */,
-				FA7CED0821B226170094
+				FA7CED0821B226170094AFAF /* Resources */,
+			);
+			buildRules
