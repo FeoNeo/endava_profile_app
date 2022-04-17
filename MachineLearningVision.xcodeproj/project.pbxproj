@@ -159,4 +159,7 @@
 				FA7CED0721B226170094AFAF /* Frameworks */,
 				FA7CED0821B226170094AFAF /* Resources */,
 			);
-			buildRules
+			buildRules = (
+			);
+			dependencies = (
+				FA7CED0C21B226170
