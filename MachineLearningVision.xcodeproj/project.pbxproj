@@ -164,4 +164,5 @@
 			dependencies = (
 				FA7CED0C21B226170094AFAF /* PBXTargetDependency */,
 			);
-			name = Machin
+			name = MachineLearningVisionTests;
+			productName = MachineLearni
