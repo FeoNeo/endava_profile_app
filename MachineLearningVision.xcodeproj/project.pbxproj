@@ -165,4 +165,5 @@
 				FA7CED0C21B226170094AFAF /* PBXTargetDependency */,
 			);
 			name = MachineLearningVisionTests;
-			productName = MachineLearni
+			productName = MachineLearningVisionTests;
+			productReference = FA7CED0A21B226170094
