@@ -166,4 +166,5 @@
 			);
 			name = MachineLearningVisionTests;
 			productName = MachineLearningVisionTests;
-			productReference = FA7CED0A21B226170094
+			productReference = FA7CED0A21B226170094AFAF /* MachineLearningVisionTests.xctest */;
+			produc
