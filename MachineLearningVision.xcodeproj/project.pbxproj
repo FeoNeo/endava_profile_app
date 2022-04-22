@@ -170,4 +170,5 @@
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		FA7CED1421B226170094AFAF /* MachineLearningVisionUITests */ = {
-			isa = PBXNativeTar
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA7CED2421B2261700
