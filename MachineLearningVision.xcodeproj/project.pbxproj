@@ -169,4 +169,5 @@
 			productReference = FA7CED0A21B226170094AFAF /* MachineLearningVisionTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		FA7CED1421B226170094AFAF /* Machin
+		FA7CED1421B226170094AFAF /* MachineLearningVisionUITests */ = {
+			isa = PBXNativeTar
