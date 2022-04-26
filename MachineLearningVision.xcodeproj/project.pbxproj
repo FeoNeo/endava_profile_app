@@ -171,4 +171,6 @@
 		};
 		FA7CED1421B226170094AFAF /* MachineLearningVisionUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FA7CED2421B226170094AFAF /* Build configuration list for PBXNativeTarget "Ma
+			buildConfigurationList = FA7CED2421B226170094AFAF /* Build configuration list for PBXNativeTarget "MachineLearningVisionUITests" */;
+			buildPhases = (
+				FA7CED
