@@ -175,4 +175,8 @@
 			buildPhases = (
 				FA7CED1121B226170094AFAF /* Sources */,
 				FA7CED1221B226170094AFAF /* Frameworks */,
-				FA7CED1321B226170094AFAF /* Reso
+				FA7CED1321B226170094AFAF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies =
