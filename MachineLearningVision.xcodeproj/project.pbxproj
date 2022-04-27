@@ -182,3 +182,5 @@
 			dependencies = (
 				FA7CED1721B226170094AFAF /* PBXTargetDependency */,
 			);
+			name = MachineLearningVisionUITests;
+			productName = 
