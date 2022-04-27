@@ -179,4 +179,6 @@
 			);
 			buildRules = (
 			);
-			dependencies =
+			dependencies = (
+				FA7CED1721B226170094AFAF /* PBXTargetDependency */,
+			);
