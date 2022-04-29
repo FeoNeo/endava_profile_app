@@ -184,4 +184,5 @@
 			);
 			name = MachineLearningVisionUITests;
 			productName = MachineLearningVisionUITests;
-			productReference = FA7CED1521B226170094AFAF /* MachineLearningVisionUI
+			productReference = FA7CED1521B226170094AFAF /* MachineLearningVisionUITests.xctest */;
+			productType = "com.apple.pro
