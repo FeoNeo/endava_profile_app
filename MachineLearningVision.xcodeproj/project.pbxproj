@@ -184,4 +184,4 @@
 			);
 			name = MachineLearningVisionUITests;
 			productName = MachineLearningVisionUITests;
-			productReferen
+			productReference = FA7CED1521B226170094AFAF /* MachineLearningVisionUI
