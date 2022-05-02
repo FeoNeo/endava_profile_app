@@ -187,4 +187,6 @@
 			productReference = FA7CED1521B226170094AFAF /* MachineLearningVisionUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
-/* End PBXN
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section 
