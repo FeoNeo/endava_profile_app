@@ -193,4 +193,5 @@
 		FA7CECEE21B226130094AFAF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwi
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1
