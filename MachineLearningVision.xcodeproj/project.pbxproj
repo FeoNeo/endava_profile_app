@@ -195,4 +195,6 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1010;
-				ORGANIZATIONNAME = "Kelly Gala
+				ORGANIZATIONNAME = "Kelly Galakatos";
+				TargetAttributes = {
+					FA7CECF521B226130094AFAF =
