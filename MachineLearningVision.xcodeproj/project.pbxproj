@@ -209,4 +209,5 @@
 						TestTargetID = FA7CECF521B226130094AFAF;
 					};
 				};
-		
+			};
+			buildConfigurationList = FA
