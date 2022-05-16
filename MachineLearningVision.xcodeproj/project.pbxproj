@@ -210,4 +210,4 @@
 					};
 				};
 			};
-			buildConfigurationList = FA
+			buildConfigurationList = FA7CECF121B226130094AFAF /* Build configuration list 
