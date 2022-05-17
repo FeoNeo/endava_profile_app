@@ -210,4 +210,5 @@
 					};
 				};
 			};
-			buildConfigurationList = FA7CECF121B226130094AFAF /* Build configuration list 
+			buildConfigurationList = FA7CECF121B226130094AFAF /* Build configuration list for PBXProject "MachineLearningVision" */;
+			compa
