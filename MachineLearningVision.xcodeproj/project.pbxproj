@@ -211,4 +211,5 @@
 				};
 			};
 			buildConfigurationList = FA7CECF121B226130094AFAF /* Build configuration list for PBXProject "MachineLearningVision" */;
-			compa
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en
