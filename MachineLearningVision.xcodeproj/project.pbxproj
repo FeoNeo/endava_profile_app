@@ -218,4 +218,5 @@
 				en,
 				Base,
 			);
-			mainGroup = FA7CECED
+			mainGroup = FA7CECED21B226120094AFAF;
+			productRefGroup = FA7CECF721B22
