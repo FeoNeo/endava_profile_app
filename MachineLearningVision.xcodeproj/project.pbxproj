@@ -223,4 +223,5 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FA7CECF521B226130094AF
+				FA7CECF521B226130094AFAF /* MachineLearningVision */,
+				FA7CED0921
