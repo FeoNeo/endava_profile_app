@@ -221,4 +221,6 @@
 			mainGroup = FA7CECED21B226120094AFAF;
 			productRefGroup = FA7CECF721B226130094AFAF /* Products */;
 			projectDirPath = "";
-			project
+			projectRoot = "";
+			targets = (
+				FA7CECF521B226130094AF
