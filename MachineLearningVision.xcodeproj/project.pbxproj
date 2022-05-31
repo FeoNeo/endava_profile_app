@@ -225,4 +225,4 @@
 			targets = (
 				FA7CECF521B226130094AFAF /* MachineLearningVision */,
 				FA7CED0921B226170094AFAF /* MachineLearningVisionTests */,
-			
+				FA7CED1421B226170094AFAF /* MachineLearningVisionUITes
