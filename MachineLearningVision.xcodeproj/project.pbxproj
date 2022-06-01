@@ -230,4 +230,6 @@
 		};
 /* End PBXProject section */
 
-/* Begin PBXResourcesBuildPhas
+/* Begin PBXResourcesBuildPhase section */
+		FA7CECF421B226130094AFAF /* Resources */ = {
+			isa = P
