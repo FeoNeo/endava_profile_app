@@ -232,4 +232,5 @@
 
 /* Begin PBXResourcesBuildPhase section */
 		FA7CECF421B226130094AFAF /* Resources */ = {
-			isa = P
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647
