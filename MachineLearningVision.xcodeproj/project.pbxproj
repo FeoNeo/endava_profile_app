@@ -233,4 +233,6 @@
 /* Begin PBXResourcesBuildPhase section */
 		FA7CECF421B226130094AFAF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647
+			buildActionMask = 2147483647;
+			files = (
+				FA7CED0421B226170094AFAF /* LaunchScreen.st
