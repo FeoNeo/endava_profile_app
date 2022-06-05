@@ -235,4 +235,5 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA7CED0421B226170094AFAF /* LaunchScreen.st
+				FA7CED0421B226170094AFAF /* LaunchScreen.storyboard in Resources */,
+				FA7CED0121B226170094AF
