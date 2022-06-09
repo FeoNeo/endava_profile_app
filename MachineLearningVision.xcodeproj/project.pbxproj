@@ -240,4 +240,6 @@
 				FA7CECFF21B226130094AFAF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
-		
+		};
+		FA7CED0821B226170094AFAF /* Resources */ = {
+			isa = 
