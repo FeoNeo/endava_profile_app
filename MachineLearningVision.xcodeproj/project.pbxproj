@@ -244,3 +244,6 @@
 		FA7CED0821B226170094AFAF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostproces
