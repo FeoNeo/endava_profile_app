@@ -242,4 +242,5 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		FA7CED0821B226170094AFAF /* Resources */ = {
-			isa = 
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
