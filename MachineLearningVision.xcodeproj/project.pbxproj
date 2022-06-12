@@ -246,4 +246,6 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			runOnlyForDeploymentPostproces
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA7CED1321B226170094AFAF /* Resourc
