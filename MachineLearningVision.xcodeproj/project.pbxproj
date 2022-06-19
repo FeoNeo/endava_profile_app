@@ -253,4 +253,8 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			runOnlyForDepl
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase se
