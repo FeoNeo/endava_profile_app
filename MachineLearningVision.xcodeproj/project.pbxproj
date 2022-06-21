@@ -260,4 +260,6 @@
 /* Begin PBXSourcesBuildPhase section */
 		FA7CECF221B226130094AFAF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
-			buildActionMask = 21474
+			buildActionMask = 2147483647;
+			files = (
+				FA7CECFC21B226130094AFAF /* ViewCont
