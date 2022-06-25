@@ -264,4 +264,5 @@
 			files = (
 				FA7CECFC21B226130094AFAF /* ViewController.swift in Sources */,
 				FA7CECFA21B226130094AFAF /* AppDelegate.swift in Sources */,
-				FA7CED2A21B656
+				FA7CED2A21B656B90094AFAF /* ImageProcessor.swift in Sources */,
+			
