@@ -267,4 +267,6 @@
 				FA7CED2A21B656B90094AFAF /* ImageProcessor.swift in Sources */,
 				FA7CED2821B6403C0094AFAF /* VGG16.mlmodel in Sources */,
 			);
-			runOnlyForDeploymentP
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA7CED0621B226170094AFAF
