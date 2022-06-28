@@ -269,4 +269,5 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FA7CED0621B226170094AFAF
+		FA7CED0621B226170094AFAF /* Sources */ = {
+			isa = PBXSourcesBuildPhas
