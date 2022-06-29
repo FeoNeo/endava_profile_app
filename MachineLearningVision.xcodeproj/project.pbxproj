@@ -273,4 +273,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA7CED0F21B226170094AFAF /* MachineLearningVisi
+				FA7CED0F21B226170094AFAF /* MachineLearningVisionTests.swift in Sources */,
+			);
+			runOnlyForDeploy
