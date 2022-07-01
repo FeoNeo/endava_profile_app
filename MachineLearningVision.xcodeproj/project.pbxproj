@@ -275,4 +275,6 @@
 			files = (
 				FA7CED0F21B226170094AFAF /* MachineLearningVisionTests.swift in Sources */,
 			);
-			runOnlyForDeploy
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA7CED1121B226
