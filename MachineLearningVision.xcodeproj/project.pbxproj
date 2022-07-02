@@ -278,4 +278,7 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		FA7CED1121B226170094AFAF /* Sources */ = {
-			isa = PBXSourcesBuil
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA7C
