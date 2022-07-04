@@ -283,4 +283,8 @@
 			files = (
 				FA7CED1A21B226170094AFAF /* MachineLearningVisionUITests.swift in Sources */,
 			);
-			runOnlyForDeploymentPostpr
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin 
