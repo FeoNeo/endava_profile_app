@@ -289,4 +289,5 @@
 
 /* Begin PBXTargetDependency section */
 		FA7CED0C21B226170094AFAF /* PBXTargetDependency */ = {
-			isa = PBXTargetDepende
+			isa = PBXTargetDependency;
+			target = FA7CECF521B226130094AFAF /* Mac
