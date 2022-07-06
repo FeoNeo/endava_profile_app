@@ -288,4 +288,5 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		FA7CED0C21B226170094AFAF 
+		FA7CED0C21B226170094AFAF /* PBXTargetDependency */ = {
+			isa = PBXTargetDepende
