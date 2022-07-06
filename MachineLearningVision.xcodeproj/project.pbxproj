@@ -290,4 +290,5 @@
 /* Begin PBXTargetDependency section */
 		FA7CED0C21B226170094AFAF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = FA7CECF521B226130094AFAF /* Mac
+			target = FA7CECF521B226130094AFAF /* MachineLearningVision */;
+			targetProxy = FA7CE
