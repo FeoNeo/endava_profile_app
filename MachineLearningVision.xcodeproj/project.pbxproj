@@ -292,3 +292,5 @@
 			isa = PBXTargetDependency;
 			target = FA7CECF521B226130094AFAF /* MachineLearningVision */;
 			targetProxy = FA7CED0B21B226170094AFAF /* PBXContainerItemProxy */;
+		};
+		FA7CED1721B226170094AFAF /* PBXTarget
