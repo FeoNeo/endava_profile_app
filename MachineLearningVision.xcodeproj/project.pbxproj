@@ -296,4 +296,6 @@
 		FA7CED1721B226170094AFAF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = FA7CECF521B226130094AFAF /* MachineLearningVision */;
-			targetProxy = FA7CED1621B22617
+			targetProxy = FA7CED1621B226170094AFAF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetD
