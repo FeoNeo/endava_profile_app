@@ -304,4 +304,6 @@
 		FA7CECFD21B226130094AFAF /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FA7C
+				FA7CECFE21B226130094AFAF /* Base */,
+			);
+			name =
