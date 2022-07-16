@@ -312,4 +312,6 @@
 		FA7CED0221B226170094AFAF /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F
+				FA7CED0321B226170094AFAF /* Base */,
+			);
+			name = LaunchScreen.s
