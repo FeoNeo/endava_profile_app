@@ -314,4 +314,7 @@
 			children = (
 				FA7CED0321B226170094AFAF /* Base */,
 			);
-			name = LaunchScreen.s
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End 
