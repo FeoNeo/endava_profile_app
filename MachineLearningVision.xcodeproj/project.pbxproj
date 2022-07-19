@@ -319,4 +319,5 @@
 		};
 /* End PBXVariantGroup section */
 
-/* Begin XCBuildConfi
+/* Begin XCBuildConfiguration section */
+		FA7CED1C21B226170094AFAF /* Debug *
