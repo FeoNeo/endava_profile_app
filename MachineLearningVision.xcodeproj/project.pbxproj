@@ -320,4 +320,6 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		FA7CED1C21B226170094AFAF /* Debug *
+		FA7CED1C21B226170094AFAF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
