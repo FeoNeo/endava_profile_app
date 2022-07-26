@@ -323,3 +323,5 @@
 		FA7CED1C21B226170094AFAF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				C
