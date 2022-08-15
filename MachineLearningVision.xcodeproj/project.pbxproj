@@ -382,4 +382,6 @@
 			name = Debug;
 		};
 		FA7CED1D21B226170094AFAF /* Release */ = {
-			isa = XCBuildConfi
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATH
