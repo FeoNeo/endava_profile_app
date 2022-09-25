@@ -432,4 +432,8 @@
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				VALIDATE_PRODUCT = YE
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FA7CED1F21B226170094AFAF /* Deb
