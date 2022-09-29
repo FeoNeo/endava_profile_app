@@ -440,4 +440,5 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CO
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = MNP43MUW
