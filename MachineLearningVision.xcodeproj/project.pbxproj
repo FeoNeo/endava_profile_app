@@ -438,4 +438,6 @@
 		};
 		FA7CED1F21B226170094AFAF /* Debug */ = {
 			isa = XCBuildConfiguration;
-			buildSetting
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CO
