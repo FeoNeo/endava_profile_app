@@ -441,4 +441,5 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = MNP43MUW
+				DEVELOPMENT_TEAM = MNP43MUW9S;
+				INFOPLIST_FILE = MachineLearningVision/Info.plist;
