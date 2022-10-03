@@ -444,4 +444,7 @@
 				DEVELOPMENT_TEAM = MNP43MUW9S;
 				INFOPLIST_FILE = MachineLearningVision/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)"
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDEN
