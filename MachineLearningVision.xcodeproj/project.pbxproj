@@ -447,4 +447,5 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDEN
+				PRODUCT_BUNDLE_IDENTIFIER = kelly.galakatos.MachineLearningVision;
+				PRODUC
