@@ -456,4 +456,6 @@
 		};
 		FA7CED2021B226170094AFAF /* Release */ = {
 			isa = XCBuildConfiguration;
-			buildSet
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+		
