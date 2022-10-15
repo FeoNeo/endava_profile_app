@@ -453,4 +453,5 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
-	
+		};
+		FA7CED2021B226170094AFAF /* Releas
