@@ -459,4 +459,5 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEA
+				DEVELOPMENT_TEAM = MNP43MUW9S;
+				INFOPLIST_FILE = MachineLearningVis
