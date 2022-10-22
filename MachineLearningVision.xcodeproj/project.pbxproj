@@ -465,4 +465,6 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kelly.galakatos.Machine
+				PRODUCT_BUNDLE_IDENTIFIER = kelly.galakatos.MachineLearningVision;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SW
