@@ -463,4 +463,6 @@
 				INFOPLIST_FILE = MachineLearningVision/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
-					"@executable_path/Framew
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = kelly.galakatos.Machine
