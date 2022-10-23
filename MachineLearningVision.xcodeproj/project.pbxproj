@@ -472,4 +472,6 @@
 			};
 			name = Release;
 		};
-		FA7CED2221B226170094AFAF /* Deb
+		FA7CED2221B226170094AFAF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettin
