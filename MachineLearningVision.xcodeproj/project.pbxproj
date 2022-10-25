@@ -474,4 +474,5 @@
 		};
 		FA7CED2221B226170094AFAF /* Debug */ = {
 			isa = XCBuildConfiguration;
-			buildSettin
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
