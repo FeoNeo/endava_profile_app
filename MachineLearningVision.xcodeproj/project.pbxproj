@@ -485,4 +485,4 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT
+				PRODUCT_BUNDLE_IDENTIFIER = kelly.galakatos.MachineLearningVisionTe
