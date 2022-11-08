@@ -489,4 +489,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Machin
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MachineLearningVision.app/MachineLearningVision";
+			};
+			name 
