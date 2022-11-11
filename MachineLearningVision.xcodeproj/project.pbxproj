@@ -491,4 +491,6 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MachineLearningVision.app/MachineLearningVision";
 			};
-			name 
+			name = Debug;
+		};
+		FA7CED2321B226170094AFAF /*
