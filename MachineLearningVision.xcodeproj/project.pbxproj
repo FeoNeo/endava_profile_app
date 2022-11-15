@@ -507,4 +507,6 @@
 					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = kelly.galakatos.MachineLearningVisionTests;
-				PRODUCT_NAME = "$(TARGET_NAME)
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_F
