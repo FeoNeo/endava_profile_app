@@ -512,3 +512,6 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MachineLearningVision.app/MachineLearningVision";
 			};
+			name = Release;
+		};
+		FA7CED2521B226170094AF
