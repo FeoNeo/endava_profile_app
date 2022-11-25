@@ -516,4 +516,5 @@
 		};
 		FA7CED2521B226170094AFAF /* Debug */ = {
 			isa = XCBuildConfiguration;
-			buil
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDAR
