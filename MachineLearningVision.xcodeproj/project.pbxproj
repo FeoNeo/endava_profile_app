@@ -518,4 +518,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = MNP43MUW9S;
+				INF
