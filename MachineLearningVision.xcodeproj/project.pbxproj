@@ -526,4 +526,5 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kell
+				PRODUCT_BUNDLE_IDENTIFIER = kelly.galakatos.MachineLearningVisionUITests;
+				PRODUCT_NAM
