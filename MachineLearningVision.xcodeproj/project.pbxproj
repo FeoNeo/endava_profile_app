@@ -533,4 +533,6 @@
 				TEST_TARGET_NAME = MachineLearningVision;
 			};
 			name = Debug;
-	
+		};
+		FA7CED2621B226170094AFAF /* Release */ = {
+			isa = 
