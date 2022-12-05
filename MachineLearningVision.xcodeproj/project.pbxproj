@@ -535,4 +535,6 @@
 			name = Debug;
 		};
 		FA7CED2621B226170094AFAF /* Release */ = {
-			isa = 
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				
