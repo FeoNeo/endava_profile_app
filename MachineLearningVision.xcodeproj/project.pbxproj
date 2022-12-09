@@ -537,4 +537,5 @@
 		FA7CED2621B226170094AFAF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+	
