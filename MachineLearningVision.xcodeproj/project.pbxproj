@@ -541,4 +541,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = MNP43MUW9S;
 				INFOPLIST_FILE = MachineLearningVisionUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = 
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+	
