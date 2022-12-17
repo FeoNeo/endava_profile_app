@@ -546,4 +546,4 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE
+				PRODUCT_BUNDLE_IDENTIFIER = kelly.galakatos.MachineLearnin
