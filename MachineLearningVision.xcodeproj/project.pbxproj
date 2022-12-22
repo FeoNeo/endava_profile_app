@@ -556,4 +556,5 @@
 		};
 /* End XCBuildConfiguration section */
 
-/* Be
+/* Begin XCConfigurationList section */
+		FA7CECF121B226130094AFA
