@@ -557,4 +557,4 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FA7CECF121B226130094AFA
+		FA7CECF121B226130094AFAF /* Build configuration list for PBXProject "Machine
