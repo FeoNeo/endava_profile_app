@@ -559,4 +559,5 @@
 /* Begin XCConfigurationList section */
 		FA7CECF121B226130094AFAF /* Build configuration list for PBXProject "MachineLearningVision" */ = {
 			isa = XCConfigurationList;
-	
+			buildConfigurations = (
+				FA7CED1C21B226
