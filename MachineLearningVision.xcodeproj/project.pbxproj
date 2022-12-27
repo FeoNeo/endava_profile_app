@@ -565,3 +565,5 @@
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
+		};
+		FA7CED1E21B226170094AFAF /* Build configu
