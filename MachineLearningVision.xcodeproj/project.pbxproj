@@ -566,4 +566,6 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FA7CED1E21B226170094AFAF /* Build configuration list for PBXNativeTarget "MachineLearningVision" */ =
+		FA7CED1E21B226170094AFAF /* Build configuration list for PBXNativeTarget "MachineLearningVision" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
