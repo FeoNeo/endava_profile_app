@@ -569,4 +569,6 @@
 		FA7CED1E21B226170094AFAF /* Build configuration list for PBXNativeTarget "MachineLearningVision" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FA7CED1F21B226170094AFAF /* Debug 
+				FA7CED1F21B226170094AFAF /* Debug */,
+				FA7CED2021B226170094AFAF /* Release */,
+			);
