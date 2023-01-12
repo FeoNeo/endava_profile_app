@@ -573,4 +573,6 @@
 				FA7CED2021B226170094AFAF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfi
+			defaultConfigurationName = Release;
+		};
+		FA7CED2121B226170094AFAF /* 
