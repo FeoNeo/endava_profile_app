@@ -575,4 +575,4 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FA7CED2121B226170094AFAF /* 
+		FA7CED2121B226170094AFAF /* Build configuration list for PBXNativeTarget "MachineLearningV
