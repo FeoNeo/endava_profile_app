@@ -577,4 +577,5 @@
 		};
 		FA7CED2121B226170094AFAF /* Build configuration list for PBXNativeTarget "MachineLearningVisionTests" */ = {
 			isa = XCConfigurationList;
-			bui
+			buildConfigurations = (
+				FA7CED2221B
