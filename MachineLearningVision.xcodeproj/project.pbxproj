@@ -579,4 +579,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FA7CED2221B226170094AFAF /* Debug */,
-				FA7CED2321B226170094AFAF /
+				FA7CED2321B226170094AFAF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			default
