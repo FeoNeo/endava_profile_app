@@ -584,4 +584,4 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FA7CED2421B22617009
+		FA7CED2421B226170094AFAF /* Build configuration list for PBXNativeTarg
