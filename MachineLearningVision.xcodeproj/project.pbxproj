@@ -585,4 +585,5 @@
 			defaultConfigurationName = Release;
 		};
 		FA7CED2421B226170094AFAF /* Build configuration list for PBXNativeTarget "MachineLearningVisionUITests" */ = {
-			i
+			isa = XCConfigurationList;
+			buildConfigurations = 
