@@ -584,4 +584,5 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FA7CED2421B226170094AFAF /* Build configuration list for PBXNativeTarg
+		FA7CED2421B226170094AFAF /* Build configuration list for PBXNativeTarget "MachineLearningVisionUITests" */ = {
+			i
