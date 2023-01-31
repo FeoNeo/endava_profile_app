@@ -591,4 +591,6 @@
 				FA7CED2621B226170094AFAF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			d
+			defaultConfigurationName = Release;
+		};
+/* End XCConfiguration
