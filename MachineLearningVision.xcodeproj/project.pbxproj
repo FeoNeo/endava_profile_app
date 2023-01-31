@@ -593,4 +593,6 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-/* End XCConfiguration
+/* End XCConfigurationList section */
+	};
+	rootObject = FA7CECEE21B226130094
