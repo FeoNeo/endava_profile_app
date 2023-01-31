@@ -590,3 +590,5 @@
 				FA7CED2521B226170094AFAF /* Debug */,
 				FA7CED2621B226170094AFAF /* Release */,
 			);
+			defaultConfigurationIsVisible = 0;
+			d
