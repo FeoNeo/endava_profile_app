@@ -595,4 +595,5 @@
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = FA7CECEE21B226130094
+	rootObject = FA7CECEE21B226130094AFAF /* Project object */;
+}
