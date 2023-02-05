@@ -2,4 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MachineLearningVision.xcodepro
+      location = "self:MachineLearningVision.xcodeproj">
+   </FileRef>
+</Workspace>
