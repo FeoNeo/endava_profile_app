@@ -9,4 +9,7 @@
 import XCTest
 @testable import MachineLearningVision
 
-class MachineLearningVisionTests: XC
+class MachineLearningVisionTests: XCTestCase {
+
+    override func setUp() {
+  
