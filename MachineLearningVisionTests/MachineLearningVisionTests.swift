@@ -7,4 +7,6 @@
 //
 
 import XCTest
-@testable import MachineLearning
+@testable import MachineLearningVision
+
+class MachineLearningVisionTests: XC
