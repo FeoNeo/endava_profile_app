@@ -12,4 +12,4 @@ import XCTest
 class MachineLearningVisionTests: XCTestCase {
 
     override func setUp() {
-  
+        // Put setup code here. This method is called befo
