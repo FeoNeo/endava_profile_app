@@ -19,4 +19,5 @@ class MachineLearningVisionTests: XCTestCase {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
     }
 
-    func 
+    func testExample() {
+        // This is an example of a fun
