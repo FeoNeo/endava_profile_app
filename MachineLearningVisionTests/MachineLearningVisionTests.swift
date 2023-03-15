@@ -25,4 +25,4 @@ class MachineLearningVisionTests: XCTestCase {
     }
 
     func testPerformanceExample() {
-       
+        // This is an example of a performance test case.
