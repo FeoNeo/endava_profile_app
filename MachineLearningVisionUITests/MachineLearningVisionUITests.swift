@@ -3,4 +3,7 @@
 //  MachineLearningVisionUITests
 //
 //  Created by Kelly Galakatos on 11/30/18.
-//  Copyright 
+//  Copyright © 2018 Kelly Galakatos. All rights reserved.
+//
+
+import XCTes
