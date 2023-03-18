@@ -6,4 +6,8 @@
 //  Copyright © 2018 Kelly Galakatos. All rights reserved.
 //
 
-import XCTes
+import XCTest
+
+class MachineLearningVisionUITests: XCTestCase {
+
+   
