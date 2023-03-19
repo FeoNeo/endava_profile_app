@@ -10,4 +10,5 @@ import XCTest
 
 class MachineLearningVisionUITests: XCTestCase {
 
-   
+    override func setUp() {
+        // Put setup code h
