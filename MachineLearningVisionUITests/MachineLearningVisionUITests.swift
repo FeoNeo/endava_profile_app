@@ -16,4 +16,4 @@ class MachineLearningVisionUITests: XCTestCase {
         // In UI tests it is usually best to stop immediately when a failure occurs.
         continueAfterFailure = false
 
-        // UI tests must 
+        // UI tests must launch the application that they test. Doing 
