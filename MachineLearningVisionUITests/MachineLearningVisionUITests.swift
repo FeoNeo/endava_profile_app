@@ -23,4 +23,4 @@ class MachineLearningVisionUITests: XCTestCase {
     }
 
     override func tearDown() {
-        // Put teardo
+        // Put teardown code here. This method is called after the inv
