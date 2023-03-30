@@ -27,4 +27,5 @@ class MachineLearningVisionUITests: XCTestCase {
     }
 
     func testExample() {
-        // Use recording to
+        // Use recording to get started writing UI tests.
+        // Use XCTAssert and relate
